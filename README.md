@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Mateo
 
-<!--
-**mateorumac/mateorumac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building **Easeful**, a calm way to make big life decisions with clear numbers.
 
-Here are some ideas to get you started:
+No budgets.  
+No bank connections.  
+Just honest numbers that help you decide.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 https://tryeaseful.com
+
+---
+
+I care about clarity, simplicity, and tools that reduce decision stress.
