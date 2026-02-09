@@ -6,7 +6,7 @@ No budgets.
 No bank connections.  
 Just honest numbers that help you decide.
 
-👉 https://tryeaseful.com
+https://tryeaseful.com
 
 ---
 
